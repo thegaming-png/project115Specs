@@ -1,6 +1,6 @@
 function preload() {
     img1 = loadImage("https://i.postimg.cc/FKP5mzf3/Seek-Png-com-mustache-png-15187.png")
-    img2 = loadImage("https://i.postimg.cc/CKD0CSdq/images-removebg-preview-1.png")
+    img2 = loadImage("https://i.postimg.cc/bNXBbkk3/images-removebg-preview-2.png")
 
 }
 
